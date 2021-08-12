@@ -4,12 +4,12 @@
       <Loader 
         v-if="imageLoading" 
         absolute />
-      <img
-        src="~/assets/logo.png"
-        :alt="name" />
       <!--<img-->
-      <!--  :src="image"-->
+      <!--  src="~/assets/logo.png"-->
       <!--  :alt="name" />-->
+      <img
+        :src="image"
+        :alt="name" />
     </div>
     <div class="name">
       {{ name }}
