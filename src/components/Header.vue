@@ -24,12 +24,12 @@
     <!--  &lt;!&ndash;  :alt="name" />&ndash;&gt;-->
     <!--</RouterLink>-->
     <div class="user" @click="toAbout">
-      <img
-        src="~/assets/logo.png"
-        :alt="name" />
       <!--<img-->
-      <!--  :src="image"-->
+      <!--  src="~/assets/logo.png"-->
       <!--  :alt="name" />-->
+      <img
+        :src="image"
+        :alt="name" />
     </div>
   </header>
 </template>
