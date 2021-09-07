@@ -80,11 +80,11 @@ export default {
     img {
       width: 100%;
     }
-    .name {
-      font-size: 40px;
-      font-family: "Oswald", sans-serif;
-      margin-bottom: 20px;
-    }
+  }
+  .name {
+    font-size: 40px;
+    font-family: "Oswald", sans-serif;
+    margin-bottom: 20px;
   }
 }
 </style>

@@ -5,5 +5,8 @@ node_modules
 dist
 main.css
 main.css.map
-.env
 /tests/example
+/cypress/videos
+
+.env
+
