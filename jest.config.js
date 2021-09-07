@@ -20,9 +20,7 @@ module.exports = {
     '<rootDir>/.idea',
     '<rootDir>/node_modules',
     '<rootDir>/dist',
-    '<rootDir>/tests/example',
-    '<rootDir>/tests/components',
-    '<rootDir>/tests/routes'
+    '<rootDir>/tests/example'
   ],
 
   // jsdom 환경에 대한 URL을 설정합니다.

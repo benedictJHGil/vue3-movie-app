@@ -27,7 +27,7 @@
     <button
       class="btn btn-primary"
       @click="apply">
-      Apple
+      Apply
     </button>
   </div>
 </template>
